@@ -6,15 +6,15 @@ This project aims to analyze factors affecting life expectancy using machine lea
 
 ## 🔍 Features
 
--**Exploratory Data Analysis (EDA)**: Visualization of distributions and relationships between variables.
-- Data Preprocessing**: Data cleaning and standardization to improve the performance of the models.
-- Modeling**: Training of linear regression and random forest models to predict life expectancy.
-- Evaluation**: Comparison of models using metrics such as mean square error (MSE) and coefficient of determination (R²).
+- **Exploratory Data Analysis (EDA)**: Visualization of distributions and relationships between variables.
+- **Data Preprocessing**: Data cleaning and standardization to improve the performance of the models.
+- **Modeling**: Training of linear regression and random forest models to predict life expectancy.
+- **Evaluation**: Comparison of models using metrics such as mean square error (MSE) and coefficient of determination (R²).
 
 ## 🛠️ Technologies used
 
-- Programming Language:** Python
-- Libraries/Frameworks:** Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn
+- **Programming Language:** Python
+- **Libraries/Frameworks:** Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn
 
 ## 📁 Project Structure
 
