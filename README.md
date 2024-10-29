@@ -22,4 +22,14 @@ This project aims to analyze factors affecting life expectancy using machine lea
 ├── Life_Expectancy.ipynb   # Main Notebook with analysis and modeling
 ├── Data.csv                # Dataset of life expectancy used
 ├── README.md               # Project documentation
-└── requirements.txt        # Units required to execute the project
+└── requirements.txt        # Units required to execute the project 
+```
+
+## 🚀 Instructions for Implementation
+1. Clone the repository:
+
+    `git clone https://github.com/IngridGuevara/Life_Expectancy_Analysis.git`
+
+2. Install the dependencies
+
+    `pip install -r requirements.txt`
