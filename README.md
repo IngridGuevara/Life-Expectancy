@@ -1,25 +1,25 @@
-# Proyecto: Análisis de Expectativa de Vida
+# Project: Life Expectancy Analysis
 
-## 📌 Descripción
+## 📌 Description
 
-Este proyecto tiene como objetivo analizar factores que afectan la expectativa de vida utilizando modelos de machine learning. Utiliza algoritmos de regresión como la **Regresión Lineal** y el **Bosque Aleatorio** para predecir la expectativa de vida en función de diversos factores socioeconómicos y de salud.
+This project aims to analyze factors affecting life expectancy using machine learning models. It uses regression algorithms such as **Linear Regression** and **Random Forest** to predict life expectancy as a function of various socioeconomic and health factors.
 
-## 🔍 Características
+## 🔍 Features
 
-- **Análisis Exploratorio de Datos (EDA)**: Visualización de distribuciones y relaciones entre variables.
-- **Preprocesamiento de Datos**: Limpieza y estandarización de datos para mejorar el rendimiento de los modelos.
-- **Modelado**: Entrenamiento de modelos de regresión lineal y bosque aleatorio para predecir la expectativa de vida.
-- **Evaluación**: Comparación de los modelos utilizando métricas como el error cuadrático medio (MSE) y el coeficiente de determinación (R²).
+-**Exploratory Data Analysis (EDA)**: Visualization of distributions and relationships between variables.
+- Data Preprocessing**: Data cleaning and standardization to improve the performance of the models.
+- Modeling**: Training of linear regression and random forest models to predict life expectancy.
+- Evaluation**: Comparison of models using metrics such as mean square error (MSE) and coefficient of determination (R²).
 
-## 🛠️ Tecnologías Usadas
+## 🛠️ Technologies used
 
-- **Lenguaje de programación:** Python
-- **Bibliotecas/Frameworks:** Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn
+- Programming Language:** Python
+- Libraries/Frameworks:** Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn
 
-## 📁 Estructura del Proyecto
+## 📁 Project Structure
 
 ```plaintext
-├── Life_Expectancy.ipynb   # Notebook principal con el análisis y el modelado
-├── Data.csv                # Dataset de expectativa de vida utilizado
-├── README.md               # Documentación del proyecto
-└── requirements.txt        # Dependencias necesarias para ejecutar el proyecto
+├── Life_Expectancy.ipynb   # Main Notebook with analysis and modeling
+├── Data.csv                # Dataset of life expectancy used
+├── README.md               # Project documentation
+└── requirements.txt        # Units required to execute the project
